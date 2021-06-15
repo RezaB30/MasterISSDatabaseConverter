@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3ac80fbbdb604071beda88d9fe22ee67" Name="Diagram1">
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Address" Width="1.5" PointX="0.75" PointY="81.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Agent" Width="1.5" PointX="3" PointY="82" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.AgentCollection" Width="1.5" PointX="11.25" PointY="82.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.AgentRelatedPayment" Width="1.5" PointX="18.75" PointY="78.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.AgentTariff" Width="1.5" PointX="11.25" PointY="79.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.AppliedRecurringDiscount" Width="1.5" PointX="24.75" PointY="90.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.AppSetting" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.AppUser" Width="1.5" PointX="6" PointY="68.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Bill" Width="1.5" PointX="13.5" PointY="87.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.BillFee" Width="1.5" PointX="21.75" PointY="95.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.BTKIPBlock" Width="1.5" PointX="5.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.BTKSchedulerSetting" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.BTKSubscriptionChange" Width="1.5" PointX="13.5" PointY="75.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Cashier" Width="1.5" PointX="8.25" PointY="65.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.CashierBalance" Width="1.5" PointX="10.5" PointY="66.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.ChangeServiceTypeTask" Width="1.5" PointX="16.5" PointY="91.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.ChangeStateTask" Width="1.5" PointX="16.5" PointY="87.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.CorporateCustomerInfo" Width="1.5" PointX="5.25" PointY="86.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Customer" Width="1.5" PointX="3" PointY="90.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.CustomerAdditionalPhoneNo" Width="1.5" PointX="5.25" PointY="90.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.CustomerBlackList" Width="1.5" PointX="7.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.CustomerIDCard" Width="1.5" PointX="5.25" PointY="92.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.CustomerSetupStatusUpdate" Width="1.5" PointX="15.75" PointY="80" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.CustomerSetupTask" Width="1.5" PointX="13.5" PointY="81.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.CustomerSetupUser" Width="1.5" PointX="3.75" PointY="77.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Discount" Width="1.5" PointX="19.5" PointY="105" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Domain" Width="1.5" PointX="9" PointY="70.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.EBill" Width="1.5" PointX="15.75" PointY="105.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.EBillRegisteredCompany" Width="1.5" PointX="5.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.ExternalPayment" Width="1.5" PointX="24.75" PointY="86.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.ExternalTariff" Width="1.5" PointX="11.25" PointY="70.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Fee" Width="1.5" PointX="16.5" PointY="94.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.FeeTypeCost" Width="1.5" PointX="17.25" PointY="109.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.FeeTypeVariant" Width="1.5" PointX="14.25" PointY="117.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Group" Width="1.5" PointX="9" PointY="97.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.MobilExpressAutoPayment" Width="1.5" PointX="13.5" PointY="94.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.NA" Width="1.5" PointX="0.75" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.NASExpiredPool" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.NASNetmap" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.NASVerticalIPMap" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.OfflinePaymentGateway" Width="1.5" PointX="22.5" PointY="73.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Partner" Width="1.5" PointX="6" PointY="79.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.PartnerAvailableTariff" Width="1.5" PointX="23.25" PointY="70.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.PartnerBillPayment" Width="1.5" PointX="21.75" PointY="78.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.PartnerCollection" Width="1.5" PointX="8.25" PointY="79.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.PartnerCredit" Width="1.5" PointX="15.75" PointY="76.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.PartnerGroup" Width="1.5" PointX="3.75" PointY="75.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.PartnerPermission" Width="1.5" PointX="8.25" PointY="84" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.PartnerRegisteredSubscription" Width="1.5" PointX="16.5" PointY="83.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.PartnerSubUser" Width="1.5" PointX="8.25" PointY="86.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.PDFFormItemPlacement" Width="1.5" PointX="7.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Permission" Width="1.5" PointX="1.5" PointY="70.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.QuotaPackage" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.RadiusAccounting" Width="1.5" PointX="13.5" PointY="101.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.RadiusAccountingIPInfo" Width="1.5" PointX="15.75" PointY="102.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.RadiusAuthorization" Width="1.5" PointX="13.5" PointY="107.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.RadiusDailyAccounting" Width="1.5" PointX="13.5" PointY="111.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.RadiusDefault" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.RadiusRBillingService" Width="1.5" PointX="22.5" PointY="104.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.RadiusSM" Width="1.5" PointX="13.5" PointY="114.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.RecurringDiscount" Width="1.5" PointX="19.5" PointY="90.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.RecurringPaymentSubscription" Width="1.5" PointX="13.5" PointY="97.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Role" Width="1.5" PointX="3.75" PointY="70.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.ScheduledSM" Width="1.5" PointX="24.75" PointY="93.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SchedulerTask" Width="1.5" PointX="14.25" PointY="72.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Service" Width="1.5" PointX="9" PointY="90.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.ServiceBillingPeriod" Width="1.5" PointX="11.25" PointY="100.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.ServiceRateTimeTable" Width="1.5" PointX="11.25" PointY="102.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SMSArchive" Width="1.5" PointX="21.75" PointY="100.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SMSSetting" Width="1.5" PointX="9.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SMSText" Width="1.5" PointX="9.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SpecialOffer" Width="1.5" PointX="19.5" PointY="110.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.Subscription" Width="1.5" PointX="11.25" PointY="87" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionCancellation" Width="1.5" PointX="13.5" PointY="125.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionCommitment" Width="1.5" PointX="13.5" PointY="128" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionCredit" Width="1.5" PointX="24.75" PointY="97.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionGPSCoord" Width="1.5" PointX="13.5" PointY="130.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionNote" Width="1.5" PointX="19.5" PointY="86.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionQuota" Width="1.5" PointX="13.5" PointY="136.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionStateHistory" Width="1.5" PointX="19.5" PointY="96.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionSupportRequest" Width="1.5" PointX="24.75" PointY="82.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionTariffHistory" Width="1.5" PointX="16.5" PointY="99.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionTelekomInfo" Width="1.5" PointX="22.5" PointY="91.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SubscriptionTransferHistory" Width="1.5" PointX="13.5" PointY="149.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SupportGroup" Width="1.5" PointX="20.25" PointY="73.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SupportGroupUser" Width="1.5" PointX="25.5" PointY="71.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SupportRequest" Width="1.5" PointX="22.5" PointY="85.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SupportRequestProgress" Width="1.5" PointX="27.75" PointY="86" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SupportRequestSubType" Width="1.5" PointX="20.25" PointY="70.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SupportRequestType" Width="1.5" PointX="18" PointY="70.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SystemLog" Width="1.5" PointX="19.5" PointY="100.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.SystemSetting" Width="1.5" PointX="0.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.TaxRate" Width="1.5" PointX="19.5" PointY="115.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.TelekomAccessCredential" Width="1.5" PointX="11.25" PointY="74.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.TelekomTariff" Width="1.5" PointX="2.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.TelekomWorkOrder" Width="1.5" PointX="19.5" PointY="81.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.TelekomWorkOrderParameter" Width="1.5" PointX="21.75" PointY="81.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.TransitionOperator" Width="1.5" PointX="20.25" PointY="107.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.VPOSList" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RadiusR_NetSpeed_6Model.WorkArea" Width="1.5" PointX="8.25" PointY="75.5" IsExpanded="true" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Agent_Address" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_CorporateCustomerInfo_Address" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Customer_Address" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Customer_BillingAddress" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Partner_Address" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Subscription_Address" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Agent_CustomerSetupUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AgentCollection_Agent" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AgentRelatedPayment_Agent" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AgentTariff_Agent" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Subscription_Agent" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AgentCollection_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AgentCollection_AppUser1" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AgentRelatedPayment_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AgentTariff_Domain" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AgentTariff_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AppliedRecurringDiscount_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AppliedRecurringDiscount_RecurringDiscount" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_AppUser_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Bill_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Cashier_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerCollection_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerCollection_AppUser1" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionCredit_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionNote_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionStateHistory_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionSupportRequest_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportGroup_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportGroupUser_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequest_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequestProgress_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SystemLog_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_TelekomWorkOrder_AppUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Bill_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_BillFee_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_EBill_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ExternalPayments_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerBillPayment_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerCredit_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ScheduledSMS_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SMSArchive_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionCredit_Bill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_BillFee_Discount" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_BillFee_Fee" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_BillFee_FeeTypeCost" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_BTKSubscriptionChange_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_CashierBalance_Cashier" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ChangeServiceTypeTask_SchedulerTask" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ChangeServiceTypeTask_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ChangeServiceTypeTask_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ChangeStateTask_SchedulerTask" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ChangeStateTask_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_CorporateCustomerInfo_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_CustomerAdditionalPhoneNo_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_CustomerIDCard_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Subscription_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SystemLog_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_CustomerSetupTaskNote_CustomerSetupTask" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_CustomerSetupTask_CustomerSetupUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_CustomerSetupTask_PartnerCollection" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_CustomerSetupTask_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionSupportRequest_CustomerSetupTask" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Partner_CustomerSetupUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ExternalTariff_Domain" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerAvailableTariff_DomainID" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Subscription_Domain" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_TelekomAccessCredential_Domain" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ExternalPayments_ExternalPayments" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ExternalPayments_OfflinePaymentGateway" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ExternalTariff_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Fee_FeeTypeCost" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Fee_FeeTypeVariant" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Fee_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_FeeTypeVariant_FeeTypeCost" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RecurringDiscount_FeeTypeCost" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SpecialOffer_FeeTypeCost" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_MobilExpressAutoPayment_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_NAS_NAS" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_NASExpiredPool_NAS" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_NASNetmap_NAS" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_NASVerticalIPMap_NAS" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Partner_PartnerGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerBillPayment_Partner" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerCollection_Partner" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerCredit_Partner" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerPermission_Partner" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerRegisteredSubscription_Partner" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerSubUser_Partner" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerAvailableTariff_Partner" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerAvailableTariff_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerBillPayment_PartnerSubUser" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerRegisteredSubscription_PartnerCollection" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerRegisteredSubscription_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_PartnerRegisteredSubscription_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Permission_Permission" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RadiusAccounting_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RadiusAccountingIPInfo_RadiusAccounting" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RadiusAuthorization_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RadiusDailyAccounting_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RecurringPaymentSubscription_RadiusRBillingService" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RadiusSMS_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RecurringDiscount_RecurringDiscount" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RecurringDiscount_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_RecurringPaymentSubscription_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ScheduledSMS_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ServiceBillingPeriod_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_ServiceRateTimeTable_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_Subscription_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionTariffHistory_NewTariff" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionTariffHistory_OldTariff" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SMSArchive_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionCancellation_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionCommitment_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionCredit_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionGPSCoords_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionNote_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionQuota_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionStateHistory_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionSupportRequest_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionTariffHistory_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionTelekomInfo_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionTransferHistory_Subscription_From" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionTransferHistory_Subscription_To" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequest_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SystemLog_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_TelekomWorkOrder_Subscription" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SubscriptionTelekomInfo_TransitionOperator" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportGroupUser_SupportGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequest_RedirectedGroupID" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequest_SupportGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequestProgress_SupportGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequest_SupportRequestSubType" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequest_SupportRequestType" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequestProgress_SupportRequest" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_SupportRequestSubType_SupportRequestType" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FK_TelekomWorkOrderParameter_TelekomWorkOrderParameter" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.AgentCollectionBill" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.AgentWorkArea" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.FeeTypeTax" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.PartnerWorkArea" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.RolePermission" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.ServiceDomain" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.SubscriptionGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="RadiusR_NetSpeed_6Model.SupportGroupRequestType" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
